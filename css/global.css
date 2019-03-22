@@ -377,7 +377,7 @@ h2 {
 	}
 	.article-list h2 {
 		padding-top: 0px; 
-		padding-left: 30px;
+		padding-left: 0px;
 		font-size: 20px;
 		font-weight: 10;
 		color: #65797c;
@@ -391,10 +391,11 @@ h2 {
 	.article-list h1 {
 		font-size: 25px;
 		font-weight: 900;
-		padding-left: 30px;
+		padding-left: 0px;
 	}
 	.article-list p{
-		padding-left: 30px;
+		padding-left: 0px;
+		line-height: 120%;
 	}
 	.title-big-box {
 		float: right;
@@ -410,8 +411,8 @@ h2 {
 	}
 	.article-list button {
 		margin: 10px 0px;
-		margin-left: 30px;
-		margin-top: 0px;
+		margin-left: 0px;
+		margin-top: 50px;
 	}
 	.one-small-box {
 		margin-top: -550px;
