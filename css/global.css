@@ -1,13 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
- /*
-	* {
-	 margin: 0;
-	 padding: 0;
-	}
-	reset.css
-	normalize.css
- 
- */
  
 .clearfix::after {
   content: "";
@@ -95,17 +86,7 @@ h2 {
 .content-padding {
 	padding: 20px 20px 0px 20px;
 	background: url('../images/slider_gradient.png');
-	/*
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 20px;
-	*/
-}
-.blue {
-	/*padding: 0px 20px 0px 20px;*/
 	
-	/*width: 975px;
-	height: 300px;*/
 }
 .page-tile {
 	width: 100%;
@@ -113,10 +94,6 @@ h2 {
 .sidebar {
 	float: left;
 	width: 30%;
-	/*
-		width: 28%;
-		padding-right: 2%;
-	*/
 }
 .article-list {
 	float: right;
@@ -127,12 +104,6 @@ h2 {
 .sidebar-panel img{
 	border: 0px;
 }
-/*.sidebar-panel h4 {
-	font-size: 20px;
-	font-weight: 600;
-	font-style: italic;
-	border-bottom: 1px solid #000;
-}*/
 
 .article-list h2 {
 	padding-top: 40px;
@@ -242,9 +213,6 @@ h2 {
 	padding-left: 220px;
 }
 .two-column .one-big-box{
-	/*padding-right: 93px;
-	
-	min-width: 63px;*/ 	 
 	position: relative;	
 }
 .one-small-box {
@@ -435,7 +403,6 @@ h2 {
 		height: 50px;
 	}
 	.three-column > div{
-		/*padding: 50px 10px;*/
 		float: left;
 		width: 100%;
 		color:white;
@@ -447,7 +414,3 @@ h2 {
 		color: #2d616b;
 	}
  }
-
-@media (min-width: 992px) and (max-width: 1199.98px) { }
-
-@media (min-width: 1200px) { }
